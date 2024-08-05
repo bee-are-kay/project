@@ -1,0 +1,9 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyterlab
+  - scikit-learn=1.3.0
+prefix: C:\Users\Bethany\miniconda3\envs\dstoolbox
